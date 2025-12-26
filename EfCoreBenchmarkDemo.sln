@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreBenchmarkDemo", "EfCoreBenchmarkDemo\EfCoreBenchmarkDemo.csproj", "{3E5F21E6-3AE2-4B02-A9D2-4167B6C69182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNet8", "ApiNet8\ApiNet8.csproj", "{C0631EB1-60AA-46AB-853D-DBEBE6310221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNet10", "ApiNet10\ApiNet10.csproj", "{F1624BC6-1932-4606-85B3-DBF3EE9D1488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBenchmarks", "ApiBenchmarks\ApiBenchmarks.csproj", "{5F1F779F-07C3-4B13-8170-E648DE22E206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5F21E6-3AE2-4B02-A9D2-4167B6C69182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5F21E6-3AE2-4B02-A9D2-4167B6C69182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5F21E6-3AE2-4B02-A9D2-4167B6C69182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5F21E6-3AE2-4B02-A9D2-4167B6C69182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0631EB1-60AA-46AB-853D-DBEBE6310221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0631EB1-60AA-46AB-853D-DBEBE6310221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0631EB1-60AA-46AB-853D-DBEBE6310221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0631EB1-60AA-46AB-853D-DBEBE6310221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1624BC6-1932-4606-85B3-DBF3EE9D1488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1624BC6-1932-4606-85B3-DBF3EE9D1488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1624BC6-1932-4606-85B3-DBF3EE9D1488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1624BC6-1932-4606-85B3-DBF3EE9D1488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1F779F-07C3-4B13-8170-E648DE22E206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1F779F-07C3-4B13-8170-E648DE22E206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1F779F-07C3-4B13-8170-E648DE22E206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1F779F-07C3-4B13-8170-E648DE22E206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
