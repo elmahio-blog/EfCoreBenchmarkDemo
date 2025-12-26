@@ -7,10 +7,10 @@ namespace DefaultNamespace;
 public class ApiBenchmarks
 {
     private readonly HttpClient _net8 =
-        new() { BaseAddress = new Uri("http://localhost:5003") };
+        new() { BaseAddress = new Uri("http://localhost:5267") };
 
     private readonly HttpClient _net10 =
-        new() { BaseAddress = new Uri("http://localhost:5296") };
+        new() { BaseAddress = new Uri("http://localhost:5186") };
 
     [Benchmark]
     public async Task Net8_EFCore8()
