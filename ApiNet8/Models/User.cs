@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace ApiNet8.Models;
 
 public class User
 {

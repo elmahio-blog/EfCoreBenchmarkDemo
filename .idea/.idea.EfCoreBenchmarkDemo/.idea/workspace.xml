@@ -9,16 +9,23 @@
     <projectFile profileName="https">ApiNet8/ApiNet8.csproj</projectFile>
     <projectFile>EfCoreBenchmarkDemo/EfCoreBenchmarkDemo.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a3eeb70-0a8e-4afd-84b5-8a71c9e22116" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiNet10/Data/AppDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiNet10/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiNet8/Data/AppDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiNet8/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfCoreBenchmarkDemo.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfCoreBenchmarkDemo/EfCoreBenchmarkDemo.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfCoreBenchmarkDemo/Program.cs" afterDir="false" />
+    <list default="true" id="5a3eeb70-0a8e-4afd-84b5-8a71c9e22116" name="Changes" comment="finally cleaned">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EfCoreBenchmarkDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EfCoreBenchmarkDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiNet10/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiNet10/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiNet8/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiNet8/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiNet8/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiNet8/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiNet8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiNet8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/DefaultNamespace.ApiBenchmarks-20251226-225637.log" beforeDir="false" afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/DefaultNamespace.ApiBenchmarks-20251226-225637.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report-github.md" beforeDir="false" afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report-github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report.csv" beforeDir="false" afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/BenchmarkDotNet.Artifacts/results/DefaultNamespace.ApiBenchmarks-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EfCoreBenchmarkDemo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EfCoreBenchmarkDemo.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EfCoreBenchmarkDemo/EfCoreBenchmarkDemo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EfCoreBenchmarkDemo/Program.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,28 +35,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ali-Hamza-An5ari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elmahio-blog/EfCoreBenchmarkDemo.git&quot;,
+    &quot;accountId&quot;: &quot;4708c4df-f60e-4c71-be96-2a4421625a58&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Elmah.io/EfCoreBenchmarkDemo/ApiBenchmarks/ApiBenchmarks.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="37OB20UHebv86uZA37NRfTeuKP2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.EfCoreBenchmarkDemo">
     <configuration name="ApiBenchmarks" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -207,8 +231,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766764026263</updated>
-      <workItem from="1766764027365" duration="312000" />
+      <workItem from="1766764027365" duration="5102000" />
+      <workItem from="1766856450420" duration="3699000" />
     </task>
+    <task id="LOCAL-00001" summary="INitial code">
+      <option name="closed" value="true" />
+      <created>1766764961680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766764961680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ApiBenchmarks project completed">
+      <option name="closed" value="true" />
+      <created>1766771846647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766771846647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,5 +260,9 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="INitial code" />
+    <MESSAGE value="ApiBenchmarks project completed" />
+    <MESSAGE value="finally cleaned" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally cleaned" />
   </component>
 </project>

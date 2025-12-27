@@ -1,4 +1,4 @@
-using DefaultNamespace;
+using ApiNet8.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiNet8.Data;
